@@ -1,2 +1,2 @@
 # Flask-
-Flask Tutorial.
+Site made using Flask.
